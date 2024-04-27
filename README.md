@@ -25,7 +25,8 @@ The utilization of Servlet, JSP, and JDBC in this project's implementation exemp
 
 **Successful Login**
 
-![image](https://github.com/Manish6363/Simple_Student_Registration_Login_JSP/assets/145590479/4a8e91b3-f0d7-4389-aaf1-39716a2feca9)
+![image](https://github.com/Manish6363/Simple_Student_Registration_Login_JSP/assets/145590479/5c6a31e3-c4b5-45ac-8c33-fb314ef0919b)
+
 
 
 
