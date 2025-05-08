@@ -1,6 +1,7 @@
-**Simple Student Registration project to understand the concept of JSP**
+**Simple Student Registration**
+Technoloy Used:** Spring MVC**
 
-Servlet, JSP, and JDBC have been skillfully employed in the implementation of this project to enhance the user experience for new students during the registration and login processes. Upon successful login, students are provided with a user-friendly interface that presents all the relevant information from the database in a structured and easily navigable tabular format. Moreover, the system empowers students with the ability to effortlessly insert, delete, and update both new and existing records within the database.
+Spring MVC, JSP, and JDBC have been skillfully employed in the implementation of this project to enhance the user experience for new students during the registration and login processes. Upon successful login, students are provided with a user-friendly interface that presents all the relevant information from the database in a structured and easily navigable tabular format. Moreover, the system empowers students with the ability to effortlessly insert, delete, and update both new and existing records within the database.
 
 The overarching goal of this project is to foster a profound comprehension of the fundamental concepts underlying JDBC, Servlet, and JSP. By leveraging these industry-standard technologies, this project not only facilitates seamless student registration and login procedures but also equips aspiring developers with a comprehensive understanding of how to effectively utilize these tools in real-world scenarios.
 
