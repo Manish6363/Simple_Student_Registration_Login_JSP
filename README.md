@@ -1,4 +1,4 @@
-#Simple Student Registration
+**Simple Student Registration**
 
 Technoloy Used: **Spring MVC**
 
