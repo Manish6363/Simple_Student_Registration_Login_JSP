@@ -1,4 +1,5 @@
-**Simple Student Registration**
+#Simple Student Registration
+
 Technoloy Used: **Spring MVC**
 
 Spring MVC, JSP, and JDBC have been skillfully employed in the implementation of this project to enhance the user experience for new students during the registration and login processes. Upon successful login, students are provided with a user-friendly interface that presents all the relevant information from the database in a structured and easily navigable tabular format. Moreover, the system empowers students with the ability to effortlessly insert, delete, and update both new and existing records within the database.
